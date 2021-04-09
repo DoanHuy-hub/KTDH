@@ -81,4 +81,6 @@ public class MyFrame extends JFrame implements CoordListener {
     public void changeColor(int color) {
         color = colorRGB;
     }
+
+    //pro
 }
